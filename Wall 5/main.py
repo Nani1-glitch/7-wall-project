@@ -148,6 +148,8 @@ while running:
 				
 				speed = 2
 				score = 0
+
+				
 				
 			if game_over:
 				start_screen = True
